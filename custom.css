@@ -1,3 +1,6 @@
 .product-style-one .card-thumbnail a img{
     height:300px
+} 
+.active-light-mode .product-style-one::before {
+    background-image: linear-gradient(100deg, #fff, orange);
 }
